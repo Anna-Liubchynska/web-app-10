@@ -1,0 +1,22 @@
+{
+  "name": "web-app-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anna-Liubchynska/web-app-10.git"
+  },
+  "author": "Anna Liubchynska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anna-Liubchynska/web-app-10/issues"
+  },
+  "homepage": "https://github.com/Anna-Liubchynska/web-app-10#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
